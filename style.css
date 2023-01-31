@@ -1,0 +1,199 @@
+.massagen{ margin-left: 500px;}
+
+html,body{
+  width: 100%;
+  max-width: 100v;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  direction: flex;justify-content: center;align-items: center;
+}
+.p{margin-left:8px;}
+.border{border: 0.5px solid; width: 205px;  border-radius: 10px;border-color: #1b1b1b;}
+.molde{margin-left: 250px;margin-top: -250px;}
+.quentes{margin-left: 480px;margin-top: -250px;}
+.bolo{background-color: #cc9999 ;width: 1319px;padding-left: 30px; margin-left: -9px;height: 340px; box-shadow: 20px 20px 20px 20px 20px black;margin-top: 0px;padding-top: 40px;}
+.velas{ margin-left: 730px;margin-top: -250px;}
+.back{background-image: url(imgs/download-Recuperado-Recuperado.png);background-position:top left; display: flex; justify-content: center; background-repeat: no-repeat; background-size: 1800px;height: 180px;margin-left: -30px;margin-right: -8px; margin-top: 0.3px; }
+.procedimentos{color: white; font-size: 40px;}
+.buttom{margin-top: 100px;margin-left: -700px; font-size: 24px; border-radius: 30px;padding: 10px;background-color: rgb(90, 198, 71);}.butto{background-color:  rgb(90, 198, 71); border-radius: 10px; margin-top: 2px;}
+.color{background-color: #cc9999;height: 320px;}
+.destaque{color: #E3F2FD; padding-top: 40px;padding-left: 40px;}
+.destaque1{color: #000; margin-left: 30px;margin-top: -10px;}
+
+.g{border: 1px solid #696363;  ;width: 330px;height: 250px; border-radius: 10px;background-color: white; box-shadow: 1px 1px 1px 1px black;margin-left: 100px;margin-top: 50px; }
+
+.tratamento1{margin-left: 700px; margin-top: -80px; padding-bottom: 80px; padding-right: 10px; padding-left: 30px;}
+.tratamento2{margin-left: 1000px; margin-top: -180px; padding-bottom: 80px; padding-left: 30px; padding-right: 10px;}
+.button{background-color:#5F0A87 ; border-radius: 30px; padding: 10px; margin-left: 40px; color: #ffffff;}
+.img{background-image: url(imgs/download-Recuperado-Recuperado-Recuperado.png);height: 600px; background-size: cover; background-repeat: no-repeat;
+background-position: center top; margin-top: -13px; width: 100%;}
+  .espaco{color:white;padding-top: 100px;padding-left: 50px;font-size: 20px; }
+  .espaço{font-size: 30px;color:white;padding-left: 40px; }
+.CLIENTES{justify-content: center; justify-items: center;margin-left: 400px;}
+.confira{ margin-left: 440px;}
+.confira1{margin-left: 550px; }
+.confira2{border: 1px solid black;margin-right: 990px;margin-bottom: 50px;margin-left: 40px;padding-left: 20px; padding-right: 20px;box-shadow: 1px 1px 1px 0.5px black; }
+.confira3{border: 1px solid black;;margin-bottom: 90px;margin-left: 400px;padding-left: 20px; padding-right: 20px;box-shadow: 1px 1px 1px 0.5px black;margin-right: 690px;margin-top: -250px; padding-bottom: 30px;}
+.confira4{border: 1px solid black;;margin-bottom: 90px;margin-left: 700px;padding-left: 20px; padding-right: 20px;box-shadow: 1px 1px 1px 0.5px black;margin-right: 390px; padding-bottom: 0px;margin-top: -305px;
+padding-top: -20px;}
+.spa{width: 100px;margin-left: 20px; margin-top: 40px;}
+.spa1{margin-left: 20px;font-size: 30px;margin-top: 40px;padding-top: 10px;margin-bottom: -40px;padding-bottom: -40px;}
+.iga{margin-top: -5px;margin-left: 36px;}
+.spa2{width: 100px;margin-left: 50px;margin-top: -100px;}
+.iga2{margin-top: -40px; padding-left: 200px;}
+.spa3{width: 100px; margin-left: 30px;}
+.iga3{margin-top: -40px; padding-left: 330px;}
+.ih{width: 500px;}
+.ij{background-color: #ffffff;margin-top: -40px; width: 1349.9px;margin-left: -10px;padding-bottom: 35px;}
+.kj{background-image: url(imgs/beauty-portrait-of-calm-ginger-woman-with-long-hair-looking-away-and-posing-sideways-while-combing-her-eyebrows-with-brush-removebg-preview.png); background-repeat: no-repeat; background-position: 800px 0px;height: 400px;}
+.igh{margin-top: -50px;}
+
+.comochegar{ font-size: 40px;color: #F7EF99;} 
+.comochegar1{ font-size: 20px;color: #ffffff;}
+.ager{margin-left: 500px; background-color: rgb(156, 5, 250); color: white; border-radius: 30px;padding: 10px;font-size: 20px;}
+.reservar1{background-color:#733E39 ;width: 100%;height: 280px;margin-top: -35px;}
+.estabelecimento{font-size: 40px;}
+.depo{ padding-bottom: 2px;background-color: white;} 
+.foo{background-color: #cc9999;width: 100%vh; margin-left: -10px;margin-bottom: -400px;height: 290px;}
+.logo{width: 290px; margin-top: -100px;margin-left: -40px; }
+.pfotter{margin-top: -200px;}
+.logo1{width: 220px;margin-top: -70px;margin-bottom: -70px;}
+.estabe{background-color: #cc9999; width: 100% ;}
+.tratamentos{font-size: 60px; color: green;padding-left: 400px;}
+.tratamentos1{margin-left: 400px;font-size: 20px;margin-bottom: -50px; color: green;}
+.bambu{width: 300px;  border-radius: 45px;}
+.bambu1{padding-left: 250px;margin-top: -2px; color: green;min-width: 320px}
+.hover{color: green;min-width: 320px}
+.eletroterapia{width:300px; border-radius: 45px; }
+.eletroterapia1{padding-left: 600px;margin-top: -50px;padding-bottom: 20px;min-width: 320px}
+.aurioculoterapia{width: 260px; border-bottom-right-radius: 45px; border-top-right-radius: 45px;}
+.aurioculoterapia1{color: green; padding-left: 930px;margin-top: -70px;padding-bottom: 30px;min-width: 320px}
+.podo{width: 300px; border-radius: 50px;min-width: 320px}
+.falec{padding-left: 200px;margin-top: -190px;min-width: 320px}
+.redes{padding-left: 500px;margin-top: -199px;min-width: 320px}
+.maps{margin-top: -190px;height: 200px;padding-left: 800px;}
+.ventosaterapia{width: 300px;padding-left: 30px; border-top-right-radius: 45px; border-bottom-right-radius: 45px;min-width: 320px}
+.fisioterapia{width: 300px; border-radius: 45px;}
+.bgmassagem{background-image: url(imgs/woman-enjoying-a-stone-massage.jpg); width: 1350px;height: 200px;background-position: center ;background-repeat: no-repeat;background-size: cover;margin-top: -40px;margin-left: -10px;min-width: 320px}
+.comit{box-shadow: 1px 1px 1px 1px;}
+.homer{ color: white; padding-left: 500px;margin-top: -130px;min-width: 320px}
+.sobre{color: white;padding-left: 590px;margin-top: -45px;min-width: 320px}
+.pracer{color: white; padding-left: 720px;margin-top: -45px; min-width: 320px}
+.body{min-width: 320px;max-height: 1900px;}
+.buti{margin-left: 840px;margin-top: -45px;}
+
+a{
+ 
+  color: green;
+
+}
+.mb{
+ padding-left: 200px;
+  font-size: 20px;
+}
+.mb:hover{
+  color: blue;
+}
+.fd{padding-left: 100px;}
+
+
+.core{
+  
+}
+.imgt{
+  width: 100%;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    
+    border-radius: 4px;
+  
+  
+}
+.border1{
+ box-shadow: 1px 1px 1px  1px;
+ margin-top: 20px;
+margin-left: 30px;
+margin-right: 20px;
+margin-bottom: 40px;
+
+}
+.border1 :hover{
+  background: green;
+  transition: 5300s;
+  transform: 0;
+  transition-duration: 1s;
+  color: white;}
+
+  .argila{
+    height: 200px;
+  }
+ 
+
+  .gh{
+    padding-top: 20px;
+  }
+  @media(max-width:500px){
+    .grid{
+      display: grid;
+      grid-template-columns: 1fr;
+    }
+    .grid1{
+      display: grid;
+      grid-template-columns: 1fr;
+    }
+    .g{
+      display: none;
+    }
+    a{
+   
+    }
+    .tratamentos1,.tratamentos{
+      padding: 0px;
+      margin: 0px;
+      padding-left: 100px;
+      margin-top: 0px;
+      padding-top: 0px;
+      font-size: 35px;
+      
+    }
+    body,main,section,header{
+      width: 100%;
+      margin: 0px 0px 0px 0px;
+      
+    }
+    .reservar1{
+      height: 390px;
+      
+    }
+    .estabelecimento{
+      padding-left: 30px;
+    }
+    .ph{
+      font-size: 30px;
+    }
+    .logo1{
+      width: 200px;
+    }
+  
+    .iga3{
+      width: 100%;
+      padding-left: 50px;
+    }
+    .fisioterapia{
+      width: 80%;
+    }
+    .ig{
+      display: none;
+    }
+    .g{
+      display: none;
+    }
+  .g1{
+    display: none;
+  }
+  }
+  .cp{
+    color: #5F0A87;
+  }

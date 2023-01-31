@@ -1,0 +1,19 @@
+@charset "UTF-8";
+@media screen  and ( min-width:300px) and (max-width:600px) {
+ body{width: 100%;}
+dest{display: none;}
+ *h1 {font-size:2px;}
+
+  
+}
+.head{
+  background:  #cc9999;
+  text-align: center;
+  font-size: 3rem;
+}
+span{
+  
+  font-weight: bold;
+}
+
+

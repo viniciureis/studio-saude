@@ -1,0 +1,99 @@
+.corrente{
+  width: 50%;
+  height: 100%;padding-left: 300px;
+  border-radius: 50px;
+
+}
+.russa{
+padding-left: 30px;
+  font-weight: bold;
+}
+.para{
+  text-align: start;
+  padding-left: 10px;
+  
+  padding-right:140px;
+  font-size: 19px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  justify-content: start; justify-items: start;
+}
+
+
+
+  
+.grid4{
+  display: grid;
+  grid-template-columns:1130px 100px;
+  
+}
+.aromo{
+  width: 80%;
+  border-radius: 40px;
+
+}
+.dv{
+  display: flex;
+  gap: 20px;padding-top: 30px;
+ 
+  
+ 
+}
+.bk{
+  background: rgba(128, 128, 128, 0.16);
+width: 90%;
+padding-right: 109px;
+padding-left: 10px;
+height: 530px;margin-top: 30px;
+margin-left: 500PX;
+
+
+  
+  
+  
+ 
+}
+@media(max-width:500px){
+  * body{
+    padding: 0px;
+ margin: 0px;
+ padding-left: 0px;
+ padding-right: 0px;
+  }
+  .para{padding: 0px;
+    font-size: 10px;
+  }
+  .russa{
+    padding: 0px;
+    font-size: 20px;
+    
+  }.ul{
+    padding: 10px;
+  }
+  main{
+    width: 100%;
+  }
+  .grid4{
+    grid-template-columns: 1fr;
+  }
+  .bk{
+    display: none;
+  }
+ 
+  
+  
+  .corrente{
+    padding-left: 10px;
+  }
+  .para{
+    padding: 20px;
+    font-size: 25px;
+  }
+  .russa{
+    padding: 20px;
+  }
+}
+@media(min-width:1500px){
+  .bk{
+    margin-left: 554px;
+  }
+}

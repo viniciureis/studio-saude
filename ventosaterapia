@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+ 
+  <link rel="stylesheet" href="home.css">
+  <link rel="stylesheet" href="style.css" >
+ <link rel="stylesheet" href="corrente.css">
+  
+  <title>Document</title>
+</head>
+<body>
+  <header class="header  container">
+    <img class="logo1" src="imgs/studio saude logo.png" alt="" srcset="">
+  <nav>
+    <ul class="header-menu">
+      <li><a href="./index.html">Home</a> </li>
+      <li><a href="./serviços.html">Serviços</a> </li>
+      <li><a href="https://wa.me/5583986190104">Contato</a> </li>
+      <li><a href="blog.html">Blog</a> </li>
+
+    </ul>
+     </nav>
+    </header>
+  <main class="grid4">
+    <div>
+      
+      <h1 class="russa">endermoterapia: o que é</h1>
+      <p class="para">
+        A endermoterapia, ou endermologia, é um tratamento estético que consiste na realização de uma massagem em profundidade com equipamentos específicos, que visa promover a eliminação da celulite e gordura localizada, nomeadamente na barriga, braços e pernas.<br><br>
+
+        Esse tipo de tratamento geralmente é realizado por um fisioterapeuta especializado em endermologia e, embora seja considerado um procedimento seguro e benéfico , a endermoterapia é recomendada apenas para pessoas com infecções ativas, trombose ou mulheres grávidas, pois estimula a circulação sanguínea e pode levar a complicações nestes<br>
+
+        <img class="corrente" src="imgs/endermo.jpg" alt="" srcset="">
+        <h1 class="russa
+        ">Para que serve a endermoterapia </h1>
+       <p class="para">
+        A endermoterapia é utilizada para:</p>
+        <ul class="ul">
+          <li>Reduzir a celulite;</li>
+          <li>Eliminar gordura localizada;</li>
+          <li>Melhorar a silhueta;</li>
+          <li>Tonificar a pele;</li>
+          <li>Combater a retenção de líquidos.</li>
+        </ul>
+        <p class="para">Além disso, a endermoterapia pode ajudar a desfazer a fibrose, ocorre quando surge tecido endurecido sob a cicatriz, após a lipoaspiração, quando a área tratada apresenta ondulações conforme a passagem da cânula
+          .
+          </p>
+        </p>
+       </p>
+     
+      <div></div>
+      
+       <div>
+        <h1 class="russa"> Como funciona </h1>
+        <p class="para"> A endermologia é uma técnica que consiste na realização de uma massagem intensa com um aparelho específico, que "suga" a pele, promovendo o deslizamento e descolamento da pele, da camada de gordura e da fáscia de recobre os músculos, promovendo melhora na circulação sanguínea, eliminando a retenção de líquidos, moldando o corpo e tornando a pele mais brilhante e macia.<br><br>
+          Normalmente, a endermologia é feita por um esteticista ou fisioterapeuta através de um aparelho específico de vácuo e ultrassom que estimula o fluxo de sangue, desmancha os nódulos de celulite e elimina as toxinas. No entanto, essa técnica também pode ser usada com ventosas de vidro ou de silicone sendo fácil de ser aplicada em casa, durante o banho, por exemplo.<br><br>
+          De forma geral, os resultados da endermoterapia surgem após 10 a 15 sessões de 30 minutos, sendo recomendado realizar cerca de duas vezes por semana. No entanto, a quantidade de sessões pode variar de acordo com o objetivo do tratamento e tamanho da região a ser tratada.
+          <div>
+          </div>
+      </p>
+       </div>
+      <div>
+        <h1 class="russa">Quem não deve fazer</h1>
+        <p class="para">
+          A endermoterapia é considerada um procedimento seguro, porém, como estimula a circulação sanguínea, não é recomendada para quem tem infecções ou inflamações ativas, nem pessoas que tenham histórico de trombose , varizes, problemas de circulação sanguínea.<br>
+          Além disso, não é recomendado para mulheres grávidas.
+        </p>
+      
+      </div>
+    </div>
+   <div class="bk" >
+ 
+      <h3> EM ALTA</h3>
+       <a href="acromoterapia.html">
+         <div class="dv">
+          <img class="aromo" src="imgs/aromo.jpg" alt="" srcset="">
+          <h4>Acromoterapia</h4>
+         </div>
+       </a>
+
+       <div class="dv">
+        <img class="aromo" src="imgs/aromo.jpg" alt="" srcset="">
+        <h4>aromoterapia</h4>
+       </div>
+       <div class="dv">
+        <img class="aromo" src="imgs/aromo.jpg" alt="" srcset="">
+        <h4>aromoterapia</h4>
+       </div>
+       <div class="dv">
+        <img class="aromo" src="imgs/aromo.jpg" alt="" srcset="">
+        <h4>aromoterapia</h4>
+       </div>
+       <div class="dv">
+        <img class="aromo" src="imgs/aromo.jpg" alt="" srcset="">
+        <h4>aromoterapia</h4>
+       </div>
+  
+
+ 
+    </div>
+  </main>
+  <footer class="grid2 colir">
+    <div>
+      <img class="logo2" src="imgs/studio saude logo.png" alt="" srcset="">
+    </div>
+    <div>
+      <h1 class="se">atendimento</h1>
+      <ul>
+        <li>Central de Atendimento<br>
+         83986190104 </li>
+        <li>Whatsapp<br>
+          <a href="https://wa.me/5583986190104">839861901044</li></a>
+        <li>Studio Saúde
+          <br>
+          R. Dr. Severino Procópio, 1515 - <br>Expedicionários, João Pessoa -<br> PB, 58041-200
+        </li>
+      </ul>
+    </div>
+    <div>
+     <h1 >BLOG</h1>
+     <ul>
+      <li>Massagem relaxante</li>
+      <li>Podologia</li>
+      <li>Manicure</li>
+      <li>Pedicure</li>
+      <li>Fisioterapia</li>
+      <li>Terapias integrativas</li>
+     </ul>
+    </div>
+    <div>
+      <h1>localização</h1>
+      <ul>
+        <li>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d126687.40967227644!2d-34.854951!3d-7.12813!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9ed96dd6878dfd1b!2sStudio%20Sa%C3%BAde!5e0!3m2!1spt-BR!2sbr!4v1673460504203!5m2!1spt-BR!2sbr" width="200" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </li>
+      </ul>
+    </div>
+  </footer>
+</body>
+</html>

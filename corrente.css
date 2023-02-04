@@ -45,12 +45,10 @@ padding-right: 109px;
 padding-left: 10px;
 height: 530px;margin-top: 30px;
 margin-left: 500PX;
-
-
-  
-  
-  
- 
+}
+span{
+  font-weight: bold;
+  font-size: 20px;
 }
 @media(max-width:500px){
   * body{
